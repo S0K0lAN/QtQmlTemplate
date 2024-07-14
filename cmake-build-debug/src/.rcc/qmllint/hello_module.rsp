@@ -1,0 +1,12 @@
+-I
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src
+-I
+/usr/lib/qt6/qml
+--resource
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/qmake_Hello.qrc
+--resource
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/qmake_Hello_copy.qrc
+--resource
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/hello_raw_qml_0.qrc
+--module
+Hello

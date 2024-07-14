@@ -1,0 +1,15 @@
+-rootPath
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/src
+-cmake-output
+-output-file
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/qml_imports/hello_build.cmake
+-importPath
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/Hello
+-importPath
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/qmake_Hello.qrc
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/qmake_Hello_copy.qrc
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/.qt/rcc/hello_raw_qml_0.qrc

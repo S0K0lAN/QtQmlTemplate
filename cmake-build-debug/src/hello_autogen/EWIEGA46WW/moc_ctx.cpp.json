@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "AppContext",
+            "object": true,
+            "qualifiedClassName": "AppContext",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "title",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "windowTitle",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ctx.h",
+    "outputRevision": 68
+}

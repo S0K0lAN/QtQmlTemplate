@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "className": "MainWindow",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "m_example_property",
+                    "name": "example_property",
+                    "notify": "example_propertyChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "MainWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "example_propertyChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "title",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "onWindowTitle",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "status",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "onExample",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMainWindow"
+                }
+            ]
+        }
+    ],
+    "inputFile": "mainwindow.h",
+    "outputRevision": 68
+}

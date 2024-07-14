@@ -4,7 +4,7 @@
 MainWindow::MainWindow(AppContext *ctx, QWidget *parent) :
     QMainWindow(parent),
     m_ctx(ctx),
-    ui(new Ui::MainWindow)
+    u i(new Ui::MainWindow)
 {
   ui->setupUi(this);
 

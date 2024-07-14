@@ -1,0 +1,43 @@
+/opt/clion-2024.1.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2024.1.4/bin/ninja/linux/x64/ninja -G Ninja -S /home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world -B /home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug
+-- The CXX compiler identification is GNU 14.1.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Initiating compile using CMake 3.28.1
+ccache NOT found!
+-- Found Git: /usr/bin/git (found version "2.45.2") 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found ZLIB: /usr/lib/libz.so (found version "1.3.1")  
+-- Found PNG: /usr/lib/libpng.so (found version "1.6.43") 
+-- Found OpenSSL: /usr/lib/libcrypto.so (found version "3.3.1")  
+-- OpenSSL: Version 3.3.1
+-- OpenSSL: include dir at /usr/include
+-- OpenSSL: libraries at /usr/lib/libssl.so;/usr/lib/libcrypto.so /usr/lib/libssl.so
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE  
+-- Found OpenGL: /usr/lib/libOpenGL.so   
+-- Found WrapOpenGL: TRUE  
+-- Found XKB: /usr/lib/libxkbcommon.so (found suitable version "1.7.0", minimum required is "0.5.0") 
+-- Found WrapVulkanHeaders: /usr/include  
+-- ====== SUMMARY
+-- [+] hello VERSION: 1.0.0
+-- [+] STATIC: no
+-- [+] arch: 
+-- [+] Git
+--   - head: f44c9d6ea0a1e3e3d7d5c7d59962dcb7dcf2ef4a
+--   - branch: master
+-- [+] PNG
+--   - include: /usr/include;/usr/include
+--   - libs: /usr/lib/libpng.so;/usr/lib/libz.so
+-- [+] OpenSSL
+--   - version: 3.3.1
+--   - include: /usr/include
+--   - libs: /usr/lib/libssl.so;/usr/lib/libcrypto.so
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug

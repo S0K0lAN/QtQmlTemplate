@@ -1,0 +1,3 @@
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/hello_autogen/include/../EWIEGA46WW/moc_ctx.cpp.json
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/hello_autogen/include/../EWIEGA46WW/moc_mainwindow.cpp.json
+/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/hello_autogen/include/../ZJOKMXDKB7/moc_config.cpp.json

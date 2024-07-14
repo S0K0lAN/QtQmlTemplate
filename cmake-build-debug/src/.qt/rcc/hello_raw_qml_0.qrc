@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/main.qml">/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/src/qml/main.qml</file>
+    <file alias="assets/rabbit.png">/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/src/assets/rabbit.png</file>
+  </qresource>
+</RCC>
+

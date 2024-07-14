@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/">/home/pcex/CLionProjects/qt6-widgets-qml-cmake-hello-world/cmake-build-debug/src/Hello</file>
+
+  </qresource>
+</RCC>

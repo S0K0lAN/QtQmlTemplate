@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "className": "Config",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "configKey",
+                            "type": "uint"
+                        }
+                    ],
+                    "name": "get",
+                    "returnType": "QVariant"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "Config",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "ConfigKeys::ConfigKey"
+                        }
+                    ],
+                    "name": "changed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "ConfigKeys",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "name": "ConfigKey",
+                    "values": [
+                        "Test",
+                        "CacheDir"
+                    ]
+                }
+            ],
+            "namespace": true,
+            "qualifiedClassName": "ConfigKeys"
+        }
+    ],
+    "inputFile": "config.h",
+    "outputRevision": 68
+}
